@@ -20,5 +20,3 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_calendar: yes
-          plugin_calendar_limit: 2
