@@ -13,8 +13,4 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="./github-metrics.svg" alt="Metrics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylove1994&layout=donut" alt="Top Langs" width="48%" />
-</div>
-
+<img src="./github-metrics.svg" alt="Metrics" width="60%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylove1994&layout=donut" alt="Top Langs" width="38%" align="top" />
