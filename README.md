@@ -13,4 +13,4 @@
 
 ---
 
-<img src="./github-metrics.svg" alt="Metrics" width="60%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylove1994&layout=donut" alt="Top Langs" width="38%" align="top" />
+<img src="./github-metrics.svg" alt="Metrics" width="60%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylove1994&layout=donut&hide_border=true" alt="Top Langs" width="38%" align="top" />
